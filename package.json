@@ -1,0 +1,22 @@
+{
+  "name": "crypt_paste",
+  "version": "1.0.0",
+  "description": "An example of a end to end encrypted paste.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpfautz/crypt_paste.git"
+  },
+  "author": "Victor Pfautz",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vpfautz/crypt_paste/issues"
+  },
+  "homepage": "https://github.com/vpfautz/crypt_paste#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
